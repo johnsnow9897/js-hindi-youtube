@@ -5,14 +5,12 @@
 // const score = 100
 // const scoreValue = 100.8
 
-const isLoggedIn = false
-const outsideTemp = null
-let userEmail;
-
-const id = Symbol('123')
-const anotherId = Symbol('123')
-
-console.log(id===anotherId);
 // refernce type (non-primitive)
 
 // Arrays, Objects, Functions
+
+// const heroes = ["IRONMAN", "SUPERMAN", "SPIDERMAN"]
+// let myObj = {
+// name: "vasu",
+// age: 22,
+// }
