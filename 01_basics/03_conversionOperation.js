@@ -28,8 +28,8 @@
 
 //******************* operations ***********************
 
-let value = 3
-let negvalue = -value;
+// let value = 3
+// let negvalue = -value;
 // console.log(negvalue);
 // console.log(2+2);
 // console.log(2-2);
@@ -55,7 +55,7 @@ will be considered as a string or if the string is the last
 */
 // trickkky conversions
 
-console.log(+true);
-let gameCounter = 100
-gameCounter++;
-console.log(gameCounter);
+// console.log(+true);
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
